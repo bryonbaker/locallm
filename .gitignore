@@ -1,2 +1,3 @@
 *.gguf
 *_pycache_*
+locallm.code-workspace
